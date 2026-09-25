@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "rcl-year-a",
+      "type": "lectionary",
+      "path": "RCL-Year-A.prayer.zip",
+      "name": "RCL Year A",
+      "description": "Revised Common Lectionary Year A (2025-26) readings",
+      "author": "Vanderbilt Divinity Library",
+      "traditions": ["General"],
+      "tags": ["lectionary", "rcl", "year-a", "revised-common-lectionary", "2025-26"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "rcl-year-b",
+      "type": "lectionary",
+      "path": "RCL-Year-B.prayer.zip",
+      "name": "RCL Year B",
+      "description": "Revised Common Lectionary Year B (2026-27) readings",
+      "author": "Vanderbilt Divinity Library",
+      "traditions": ["General"],
+      "tags": ["lectionary", "rcl", "year-b", "revised-common-lectionary", "2026-27"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "rcl-year-c",
+      "type": "lectionary",
+      "path": "RCL-Year-C.prayer.zip",
+      "name": "RCL Year C",
+      "description": "Revised Common Lectionary Year C (2027-28) readings",
+      "author": "Vanderbilt Divinity Library",
+      "traditions": ["General"],
+      "tags": ["lectionary", "rcl", "year-c", "revised-common-lectionary", "2027-28"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "daily-office-year-two-2025-26",
+      "type": "lectionary",
+      "path": "Daily-Office-Year-Two-2025-26.prayer.zip",
+      "name": "Daily Office Year Two 2025-26",
+      "description": "Episcopal BCP 1979 Daily Office lectionary, Year Two (2025-26): psalms and lessons for each day",
+      "author": "The Episcopal Church",
+      "traditions": ["Anglican", "Episcopal"],
+      "tags": ["lectionary", "daily-office", "bcp", "year-two", "2025-26", "episcopal"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "daily-office-year-one-2026-27",
+      "type": "lectionary",
+      "path": "Daily-Office-Year-One-2026-27.prayer.zip",
+      "name": "Daily Office Year One 2026-27",
+      "description": "Episcopal BCP 1979 Daily Office lectionary, Year One (2026-27): psalms and lessons for each day",
+      "author": "The Episcopal Church",
+      "traditions": ["Anglican", "Episcopal"],
+      "tags": ["lectionary", "daily-office", "bcp", "year-one", "2026-27", "episcopal"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "jewish-weekly-torah-5786",
+      "type": "lectionary",
+      "path": "Jewish-Weekly-Torah-5786.prayer.zip",
+      "name": "Jewish Weekly Torah 5786",
+      "description": "Standard Ashkenazi weekly Torah portion (parashah) lectionary with Haftarot for Jewish year 5786 (2025-2026)",
+      "author": "Theodia",
+      "traditions": ["Jewish"],
+      "tags": ["lectionary", "torah", "parashah", "haftarah", "jewish", "5786", "2025-2026"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "jewish-weekly-torah-5787",
+      "type": "lectionary",
+      "path": "Jewish-Weekly-Torah-5787.prayer.zip",
+      "name": "Jewish Weekly Torah 5787",
+      "description": "Standard Ashkenazi weekly Torah portion (parashah) lectionary with Haftarot for Jewish year 5787 (2026-2027)",
+      "author": "Theodia",
+      "traditions": ["Jewish"],
+      "tags": ["lectionary", "torah", "parashah", "haftarah", "jewish", "5787", "2026-2027"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "one-year-daily-bible-reading-plan",
+      "type": "lectionary",
+      "path": "One-Year-Daily-Bible-Reading-Plan.prayer.zip",
+      "name": "One Year Daily Bible Reading Plan",
+      "description": "A canonical one-year daily Bible reading plan with Old Testament, New Testament, Psalm, and Proverb readings for each day",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["lectionary", "reading-plan", "one-year", "daily", "bible"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "psalm-of-day-proverbs-of-day",
+      "type": "lectionary",
+      "path": "Psalm-Of-Day-Proverbs-Of-Day.prayer.zip",
+      "name": "Psalm Of Day Proverbs Of Day",
+      "description": "A simple daily lectionary with a Psalm and Proverbs chapter for each day of the year",
+      "author": "Theodia",
+      "traditions": ["General"],
+      "tags": ["lectionary", "psalm", "proverbs", "daily", "reading"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "presbyterian-reformed-lectionary-2026-27",
+      "type": "lectionary",
+      "path": "Presbyterian-Reformed-Lectionary-2026-27.prayer.zip",
+      "name": "Presbyterian Reformed Lectionary 2026-27",
+      "description": "Reformed Sunday lectionary with Old Testament, Psalm, Epistle, and Gospel readings for 2026-27, including Reformation Sunday",
+      "author": "Theodia",
+      "traditions": ["Presbyterian", "Reformed"],
+      "tags": ["lectionary", "reformed", "presbyterian", "2026-27", "sunday"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "coptic-lectionary-2026-27",
+      "type": "lectionary",
+      "path": "Coptic-Lectionary-2026-27.prayer.zip",
+      "name": "Coptic Lectionary 2026-27",
+      "description": "Simplified Coptic Orthodox Sunday lectionary with Old Testament, Psalm, Epistle, and Gospel readings for 2026-27",
+      "author": "Theodia",
+      "traditions": ["Coptic", "Orthodox"],
+      "tags": ["lectionary", "coptic", "orthodox", "2026-27", "sunday"],
+      "version": "1.0.0"
+    },
+    {
+      "id": "anabaptist-lectionary-2026-27",
+      "type": "lectionary",
+      "path": "Anabaptist-Lectionary-2026-27.prayer.zip",
+      "name": "Anabaptist Lectionary 2026-27",
+      "description": "Anabaptist / Mennonite discipleship lectionary emphasizing the Sermon on the Mount, peace, and reconciliation for 2026-27",
+      "author": "Theodia",
+      "traditions": ["Anabaptist"],
+      "tags": ["lectionary", "anabaptist", "mennonite", "2026-27", "sermon-on-the-mount", "peace"],
+      "version": "1.0.0"
+    }
+  ]
+}
