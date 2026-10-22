@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T00:00:00.000Z",
+  "updatedAt": "2026-10-21T00:00:00.000Z",
   "packages": [
     {
       "id": "rcl-year-a",
@@ -9,9 +9,18 @@
       "name": "RCL Year A",
       "description": "Revised Common Lectionary Year A (2025-26) readings",
       "author": "Vanderbilt Divinity Library",
-      "traditions": ["General"],
-      "tags": ["lectionary", "rcl", "year-a", "revised-common-lectionary", "2025-26"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "lectionary",
+        "rcl",
+        "year-a",
+        "revised-common-lectionary",
+        "2025-26"
+      ],
+      "version": "1.0.0",
+      "size": 5865
     },
     {
       "id": "rcl-year-b",
@@ -20,9 +29,18 @@
       "name": "RCL Year B",
       "description": "Revised Common Lectionary Year B (2026-27) readings",
       "author": "Vanderbilt Divinity Library",
-      "traditions": ["General"],
-      "tags": ["lectionary", "rcl", "year-b", "revised-common-lectionary", "2026-27"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "lectionary",
+        "rcl",
+        "year-b",
+        "revised-common-lectionary",
+        "2026-27"
+      ],
+      "version": "1.0.0",
+      "size": 6007
     },
     {
       "id": "rcl-year-c",
@@ -31,9 +49,18 @@
       "name": "RCL Year C",
       "description": "Revised Common Lectionary Year C (2027-28) readings",
       "author": "Vanderbilt Divinity Library",
-      "traditions": ["General"],
-      "tags": ["lectionary", "rcl", "year-c", "revised-common-lectionary", "2027-28"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "lectionary",
+        "rcl",
+        "year-c",
+        "revised-common-lectionary",
+        "2027-28"
+      ],
+      "version": "1.0.0",
+      "size": 5978
     },
     {
       "id": "daily-office-year-two-2025-26",
@@ -42,9 +69,20 @@
       "name": "Daily Office Year Two 2025-26",
       "description": "Episcopal BCP 1979 Daily Office lectionary, Year Two (2025-26): psalms and lessons for each day",
       "author": "The Episcopal Church",
-      "traditions": ["Anglican", "Episcopal"],
-      "tags": ["lectionary", "daily-office", "bcp", "year-two", "2025-26", "episcopal"],
-      "version": "1.0.0"
+      "traditions": [
+        "Anglican",
+        "Episcopal"
+      ],
+      "tags": [
+        "lectionary",
+        "daily-office",
+        "bcp",
+        "year-two",
+        "2025-26",
+        "episcopal"
+      ],
+      "version": "1.0.0",
+      "size": 21652
     },
     {
       "id": "daily-office-year-one-2026-27",
@@ -53,9 +91,20 @@
       "name": "Daily Office Year One 2026-27",
       "description": "Episcopal BCP 1979 Daily Office lectionary, Year One (2026-27): psalms and lessons for each day",
       "author": "The Episcopal Church",
-      "traditions": ["Anglican", "Episcopal"],
-      "tags": ["lectionary", "daily-office", "bcp", "year-one", "2026-27", "episcopal"],
-      "version": "1.0.0"
+      "traditions": [
+        "Anglican",
+        "Episcopal"
+      ],
+      "tags": [
+        "lectionary",
+        "daily-office",
+        "bcp",
+        "year-one",
+        "2026-27",
+        "episcopal"
+      ],
+      "version": "1.0.0",
+      "size": 21614
     },
     {
       "id": "jewish-weekly-torah-5786",
@@ -64,9 +113,20 @@
       "name": "Jewish Weekly Torah 5786",
       "description": "Standard Ashkenazi weekly Torah portion (parashah) lectionary with Haftarot for Jewish year 5786 (2025-2026)",
       "author": "Theodia",
-      "traditions": ["Jewish"],
-      "tags": ["lectionary", "torah", "parashah", "haftarah", "jewish", "5786", "2025-2026"],
-      "version": "1.0.0"
+      "traditions": [
+        "Jewish"
+      ],
+      "tags": [
+        "lectionary",
+        "torah",
+        "parashah",
+        "haftarah",
+        "jewish",
+        "5786",
+        "2025-2026"
+      ],
+      "version": "1.0.0",
+      "size": 3717
     },
     {
       "id": "jewish-weekly-torah-5787",
@@ -75,9 +135,20 @@
       "name": "Jewish Weekly Torah 5787",
       "description": "Standard Ashkenazi weekly Torah portion (parashah) lectionary with Haftarot for Jewish year 5787 (2026-2027)",
       "author": "Theodia",
-      "traditions": ["Jewish"],
-      "tags": ["lectionary", "torah", "parashah", "haftarah", "jewish", "5787", "2026-2027"],
-      "version": "1.0.0"
+      "traditions": [
+        "Jewish"
+      ],
+      "tags": [
+        "lectionary",
+        "torah",
+        "parashah",
+        "haftarah",
+        "jewish",
+        "5787",
+        "2026-2027"
+      ],
+      "version": "1.0.0",
+      "size": 3699
     },
     {
       "id": "one-year-daily-bible-reading-plan",
@@ -86,9 +157,18 @@
       "name": "One Year Daily Bible Reading Plan",
       "description": "A canonical one-year daily Bible reading plan with Old Testament, New Testament, Psalm, and Proverb readings for each day",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["lectionary", "reading-plan", "one-year", "daily", "bible"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "lectionary",
+        "reading-plan",
+        "one-year",
+        "daily",
+        "bible"
+      ],
+      "version": "1.0.0",
+      "size": 14080
     },
     {
       "id": "psalm-of-day-proverbs-of-day",
@@ -97,9 +177,18 @@
       "name": "Psalm Of Day Proverbs Of Day",
       "description": "A simple daily lectionary with a Psalm and Proverbs chapter for each day of the year",
       "author": "Theodia",
-      "traditions": ["General"],
-      "tags": ["lectionary", "psalm", "proverbs", "daily", "reading"],
-      "version": "1.0.0"
+      "traditions": [
+        "General"
+      ],
+      "tags": [
+        "lectionary",
+        "psalm",
+        "proverbs",
+        "daily",
+        "reading"
+      ],
+      "version": "1.0.0",
+      "size": 6954
     },
     {
       "id": "presbyterian-reformed-lectionary-2026-27",
@@ -108,9 +197,19 @@
       "name": "Presbyterian Reformed Lectionary 2026-27",
       "description": "Reformed Sunday lectionary with Old Testament, Psalm, Epistle, and Gospel readings for 2026-27, including Reformation Sunday",
       "author": "Theodia",
-      "traditions": ["Presbyterian", "Reformed"],
-      "tags": ["lectionary", "reformed", "presbyterian", "2026-27", "sunday"],
-      "version": "1.0.0"
+      "traditions": [
+        "Presbyterian",
+        "Reformed"
+      ],
+      "tags": [
+        "lectionary",
+        "reformed",
+        "presbyterian",
+        "2026-27",
+        "sunday"
+      ],
+      "version": "1.0.0",
+      "size": 3506
     },
     {
       "id": "coptic-lectionary-2026-27",
@@ -119,9 +218,19 @@
       "name": "Coptic Lectionary 2026-27",
       "description": "Simplified Coptic Orthodox Sunday lectionary with Old Testament, Psalm, Epistle, and Gospel readings for 2026-27",
       "author": "Theodia",
-      "traditions": ["Coptic", "Orthodox"],
-      "tags": ["lectionary", "coptic", "orthodox", "2026-27", "sunday"],
-      "version": "1.0.0"
+      "traditions": [
+        "Coptic",
+        "Orthodox"
+      ],
+      "tags": [
+        "lectionary",
+        "coptic",
+        "orthodox",
+        "2026-27",
+        "sunday"
+      ],
+      "version": "1.0.0",
+      "size": 3314
     },
     {
       "id": "anabaptist-lectionary-2026-27",
@@ -130,9 +239,19 @@
       "name": "Anabaptist Lectionary 2026-27",
       "description": "Anabaptist / Mennonite discipleship lectionary emphasizing the Sermon on the Mount, peace, and reconciliation for 2026-27",
       "author": "Theodia",
-      "traditions": ["Anabaptist"],
-      "tags": ["lectionary", "anabaptist", "mennonite", "2026-27", "sermon-on-the-mount", "peace"],
-      "version": "1.0.0"
+      "traditions": [
+        "Anabaptist"
+      ],
+      "tags": [
+        "lectionary",
+        "anabaptist",
+        "mennonite",
+        "2026-27",
+        "sermon-on-the-mount",
+        "peace"
+      ],
+      "version": "1.0.0",
+      "size": 4043
     }
   ]
 }
