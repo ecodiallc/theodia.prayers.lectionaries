@@ -1,7 +1,5 @@
 # Theodia Prayer Lectionaries
 
-A dedicated repository of downloadable lectionary schedules for the Theodia app.
-
 | ID | Name |
 | --- | ---- |
 | `rcl-year-a` | RCL Year A |
