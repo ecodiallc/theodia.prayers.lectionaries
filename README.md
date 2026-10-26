@@ -35,3 +35,8 @@
 Revised Common Lectionary scripture citations are from the Vanderbilt Divinity Library (https://lectionary.library.vanderbilt.edu).
 
 Daily Office psalms and lessons are from the Episcopal Book of Common Prayer (1979), pp. 934-939 ("Concerning the Daily Office Lectionary"), in the JSON transcription at https://github.com/reubenlillie/daily-office.
+
+### Download Theodia.app
+
+- [App Store](https://apps.apple.com/us/app/theodia/id6783143344)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ecodia.theodia)
